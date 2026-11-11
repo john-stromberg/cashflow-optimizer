@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [wealth-planning-apps/projects/cashflow-optimizer](https://github.com/john-stromberg/wealth-planning-apps/tree/main/projects/cashflow-optimizer).
+> This repository is retained as a historical snapshot.
+
+---
+
 # Cashflow Optimizer
 
 Practical advisor tool for monthly cashflow allocation across emergency reserves, debt reduction, retirement match capture, and investing.
